@@ -1,0 +1,97 @@
+body{
+    background-image: repeating-linear-gradient(lightblue,lightgray,lightpink);
+    height: 1550px;
+    
+    
+    
+    
+    
+    
+}
+#navbar{
+    margin-left: 83%;
+    
+    
+    
+    
+}
+h1{
+    padding-top: 30pt;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Rubik Moonrocks', cursive;
+    
+    
+    
+    
+    
+}
+img{
+    
+    border-radius: 150px;
+    border-style: dashed;
+    border-color: darkslategrey;
+    
+    
+    
+    
+}
+#aboutimg{
+    text-align: center;
+    padding-top: 20pt;
+    margin-top: 50pt;
+    margin-bottom: 10pt;
+    
+}
+table{
+    
+    width: 65%;
+    height: 700px;
+    font-family: sans-serif;
+    border-color: antiquewhite;
+    margin-left: 15%;
+    border: 3pt;
+    margin-top: 65pt;
+    
+    
+    
+    
+}
+table tr{
+    border-collapse: collapse;
+    border-width: thin;
+    border-color:antiquewhite;
+    border-left: collapse;
+    border-right: collapse;
+    
+    
+}
+table tr td{
+    text-align: center;
+    
+    border-color: antiquewhite;
+    border-width: thin;
+    
+}
+table tr th{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

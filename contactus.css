@@ -1,0 +1,29 @@
+body{
+    background-image: url(blue.jpg);
+    
+}
+#navbar{
+    margin-left: 83%;
+    
+    
+    
+}
+form{
+    text-align: center;
+    padding-top: 130px;
+    opacity: 0.8;
+    border-collapse: collapse;
+    
+    
+}
+input{
+    width: 300px;
+    border-style: none;
+    color: black;
+    
+    
+    
+}
+
+
+
